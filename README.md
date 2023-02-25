@@ -1,11 +1,13 @@
 # Zyte Coding Assignment - Challenge 2
 **Summary:**
 
-This spider will scrape the below fields from http://quotes.toscrape.com/js/ website using Scrapy and Splash:
-
-**Note:** We are using splash as the website we are scraping requires javascript rendering. 
+This spider will scrape the below fields from http://quotes.toscrape.com/js/ website using Scrapy and Splash.
 
 **Quote**  | **Author Name** | **Tags** | 
+
+**Note:** We are using scrapy + splash since the website we are scraping requires javascript rendering. 
+
+
 
 **In order to clone this project use the below command:**
 
